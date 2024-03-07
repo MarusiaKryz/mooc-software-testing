@@ -1,4 +1,4 @@
-# Software Testing MOOC
+# Software Testing MOOC.
 
 This repository contains the code examples and exercises of
 TU Delft's edX MOOC on Software Testing.
